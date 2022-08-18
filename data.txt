@@ -1,0 +1,3 @@
+123=/home/gaian/IdeaProjects/ATM_demo/src/main/java/file1.json
+456=/home/gaian/IdeaProjects/ATM_demo/src/main/java/file2.json
+926=/home/gaian/IdeaProjects/ATM_demo/src/main/java/file3.json
