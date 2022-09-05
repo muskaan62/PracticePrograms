@@ -10,6 +10,7 @@ import java.util.Scanner;
 import static java.lang.System.exit;
 
 public class Atm {
+    String s1;
     public static void main(String args[]) throws Exception {
         Scanner s1 = new Scanner(System.in);
         bank();
